@@ -1,1 +1,2 @@
-# the-book-eating-magician
+# The Book Eating Magician
+Théodore Miller n’a qu’une idée en tête : devenir sorcier. Malheureusement, il est incapable de jeter le moindre sort alors qu’il passe ses journées à étudier à la bibliothèque de son école. Mais un jour, il tombe sur un grimoire un peu particulier : Gluttony, le grimoire de la gloutonnerie ! Chaque fois que la petite créature dévore un livre, elle transmet à Théo les connaissances qui y sont contenues. Fort de tout ce savoir engrangé, Théo parviendra-t-il enfin à devenir le meilleur des sorciers ?
